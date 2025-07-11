@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/splash-icon.png" width="160" alt="PropVista Logo"/>
+  <img src="assets/images/logo.png" width="160" alt="PropVista Logo"/>
 </p>
 
 <h1 align="center">🏡 PropVista</h1>
