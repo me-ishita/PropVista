@@ -14,7 +14,7 @@
       </a>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/ishita-ghosh/PropVista/main/assets/images/qr-demo.svg" width="140" alt="Scan QR to open in Expo Go" />
+      <img src="assets/images/qr-demo.svg" width="140" alt="Scan QR to open in Expo Go" />
     </td>
   </tr>
 </table>
