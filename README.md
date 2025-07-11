@@ -17,6 +17,7 @@
       <img src="assets/images/qr-demo.svg" width="140" alt="Scan QR to open in Expo Go" />
     </td>
   </tr>
+  <p align="left">Scan QR to open in Expo Go and preview the app in your phone</p>
 </table>
 
 ---
