@@ -6,9 +6,18 @@
 
 ## 🔗 Live Demo
 
-👉 [Open PropVista Live Demo](https://expo.dev/accounts/ishita_ghosh/projects/PropVista/updates/7cf1bcfa-a668-4004-81ac-14bfba1a73fb)
-
-📱 Scan the QR code using the **Expo Go** app to experience the app instantly on your phone.
+<table>
+  <tr>
+    <td>
+      <a href="https://expo.dev/accounts/ishita_ghosh/projects/PropVista/updates/7cf1bcfa-a668-4004-81ac-14bfba1a73fb" target="_blank">
+        <img src="https://img.shields.io/badge/PropVista%20Live-Click%20Here-brightgreen?style=for-the-badge&logo=expo&logoColor=white" alt="Live Demo Badge" />
+      </a>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/ishita-ghosh/PropVista/main/assets/images/qr-demo.svg" width="140" alt="Scan QR to open in Expo Go" />
+    </td>
+  </tr>
+</table>
 
 ---
 
