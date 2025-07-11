@@ -2,8 +2,6 @@
   <img src="assets/images/logo.png" width="160" alt="PropVista Logo"/>
 </p>
 
-<h1 align="center">🏡 PropVista</h1>
-
 <p align="center">Cross-platform Real Estate Mobile App built with React Native, Expo, TypeScript & Appwrite</p>
 
 ---
