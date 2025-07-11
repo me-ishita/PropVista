@@ -4,6 +4,12 @@
 
 <p align="center">Cross-platform Real Estate Mobile App built with React Native, Expo, TypeScript & Appwrite</p>
 
+## 🔗 Live Demo
+
+👉 [Open PropVista Live Demo](https://expo.dev/accounts/ishita_ghosh/projects/PropVista/updates/7cf1bcfa-a668-4004-81ac-14bfba1a73fb)
+
+📱 Scan the QR code using the **Expo Go** app to experience the app instantly on your phone.
+
 ---
 
 ## 🚀 Tech Stack
